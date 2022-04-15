@@ -2,7 +2,7 @@
 
 My name is Zuguang Tong 童祖光
 
-I am a software engineer currently living in Melbourne :monkey:
+I am a software development engineer :monkey: from China living in Melbourne 
 
 
 [![Zuguang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZgTong&count_private=true&show_icons=true&theme=blue-green)](https://github.com/ZgTong/github-readme-stats)
