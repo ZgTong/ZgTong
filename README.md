@@ -21,7 +21,7 @@ I'm Zuguang Tong 童祖光
 #### Skills:
 
 - Frontend: React/Vue, JavaScript/TypeScript, JQuery, CSS/LESS/SCSS, HTML5, WeChat applet
-- Backend:  Python, Django, Node.js, MySQL, MongoDB
+- Backend:  Python, Django, Node.js, MySQL, MongoDB, Java
 - Tools: Docker, Git, Linux commands, Agile tools
 
 
