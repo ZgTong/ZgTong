@@ -37,6 +37,6 @@ I'm Zuguang Tong 童祖光
 
 
 
-[![Zuguang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZgTong&count_private=true&show_icons=true&theme=blue-green)](https://github.com/ZgTong/github-readme-stats)
+[![Zuguang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZgTong&count_private=true&show_icons=true&include_all_commits=true&bg_color=45,FF9A8B,FF6A88,FF99AC&text_color=FBDA61&title_color=B5FFFC&icon_color=8BC6EC)](https://github.com/ZgTong/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZgTong&layout=compact)](https://github.com/ZgTong/github-readme-stats)
