@@ -10,7 +10,7 @@ I'm Zuguang Tong 童祖光
 
 :dart: Love front-end development, constantly trying and learning in new fields and technologies
 
-:boom: Fun fact:  :guitar::headphones:Mentalhead,  :swimmer::bicyclist::runner:💪Fitness amateur (very)
+:boom: Fun fact:  🤘🎶:headphones:Mentalhead,  :swimmer::bicyclist::runner:💪Fitness amateur (very)
 
 ⭐ Give me a STAR⭐ if you like [my repositories](https://github.com/ZgTong?tab=repositories)!
 
