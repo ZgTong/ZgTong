@@ -6,7 +6,7 @@ I'm Zuguang Tong 童祖光
 
 👨‍🎓 Master of Information Technology, University of Melbourne
 
-:office: Currently working as an full stack intern at Capital Guardian
+:office: Currently working as a full stack intern at Capital Guardian
 
 :dart: Love front-end development, constantly trying and learning in new fields and technologies
 
