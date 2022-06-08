@@ -6,7 +6,7 @@ I'm Zuguang Tong 童祖光
 
 👨‍🎓 Master of Information Technology, University of Melbourne
 
-:office: Currently working as a full stack intern at Capital Guardian
+:office: I'm looking for front-end and NodeJS full stack jobs and will graduate in July 2022
 
 :dart: Love front-end development, constantly trying and learning in new fields and technologies
 
