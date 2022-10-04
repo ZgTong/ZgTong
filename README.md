@@ -6,7 +6,7 @@ I'm Zuguang Tong 童祖光
 
 👨‍🎓 Master of Information Technology, University of Melbourne
 
-:office: I'm looking for a NodeJS full stack or front-end position and will graduate in July 2022
+:office: Junior Full Stack Developer at Hertz
 
 :dart: Love front-end development, constantly trying and learning in new fields and technologies
 
