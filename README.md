@@ -52,6 +52,7 @@ I'm Zuguang Tong 童祖光
 - Tools: 
 
   <p align="left"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU3u9MnKo42xFP5DoEnLExEgysBusasUWoLKQVXXslVg&s" width="50" height="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
